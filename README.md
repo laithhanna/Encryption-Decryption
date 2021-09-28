@@ -6,7 +6,7 @@ demonstrating an actual run of the program at the end of this file.
 
 There are two encryption/decrytpion algorithms available:
 
-Shift -> It shifts each letter by the specified number (the key) according to its order in the alphabet in circle;
+Caesar cipher -> It shifts each letter by the specified number (the key) according to its order in the alphabet in circle;
 
 Unicode -> Performs encryption/decryption based on the Unicode table.
 
