@@ -44,5 +44,6 @@ If there is a non-standard situation (an input file does not exist or an argumen
 
 example of runnig the program from the terminal:
 
+![example](https://user-images.githubusercontent.com/84100829/135176172-53fd573b-97f2-427d-9c90-aa8176099a2b.PNG)
 
 
